@@ -1,0 +1,30 @@
+projectDetails:
+  name: "ProjectXYZ"
+  description: >
+    ProjectXYZ is an open-source project aimed at providing a comprehensive solution for [describe the purpose or functionality of your project here]. It is designed to [mention any unique features or goals of your project]. This project is licensed under [mention the license type, e.g., MIT License].
+
+  homepage: "https://example.com/projectxyz"
+  repository: "https://github.com/username/projectxyz"
+  license: "MIT"
+  language: "Python"
+
+codeOwners:
+  - GITHUB_USERNAME_1: 
+      name: John Doe
+      email: john.doe@example.com
+      role: Core Developer
+      github: https://github.com/GITHUB_USERNAME_1
+      twitter: https://twitter.com/johndoe
+      linkedin: https://linkedin.com/in/johndoe
+  - GITHUB_USERNAME_2: 
+      name: Jane Smith
+      email: jane.smith@example.com
+      role: Contributor
+      github: https://github.com/GITHUB_USERNAME_2
+
+quorum: 1
+# Minimum katılımcı sayısını buraya ekleyin.
+
+version: 1
+# Constitution dosyanızın sürüm numarası.
+
